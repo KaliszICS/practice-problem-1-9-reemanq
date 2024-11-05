@@ -14,7 +14,7 @@ def q2():
 
 def q3(): 
   c = input("Input a word that is at least 5 letters long: ")
-  print(c[2:4])
+  print(c[1:4])
   #Write Assignment code here
 
 
